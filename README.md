@@ -1,4 +1,4 @@
-# WebRsync+
+# WebRsync_parallel
 
 Pure Javascript Implementation of rsync.
 
